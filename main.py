@@ -16,3 +16,7 @@ with col2:
     """
     st.info(content)
 
+content2 = "Below you can find some of the app i built in python. Feel free to Contact me."
+
+st.write(content2)
+
