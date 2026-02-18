@@ -1,5 +1,6 @@
 .venv
 .idea
-images2
-data2.csv
-web.py
+experiment/images2
+experiment/data2.csv
+experiment/web.py
+experiment/topics2.csv
