@@ -11,15 +11,13 @@ with col1:
 with col2:
     st.title("Eman")
     content = """
-    Hi, I am Eman.I am new python programmmer. It's my frist programming language. I want to make apps, webs, Ai and many more things.
+    Hi, I am Eman.I am new python programmer. It's my first programming language. I want to make apps, webs, AI and many more things.
     I do have big scopes. 
     See you there!
     """
     st.info(content)
 
-content2 = "Below you can find some of the app i built in python. Feel free to Contact me."
-
-st.write(content2)
+content2 = st.caption("Below you can find some of the app i built in python. Feel free to Contact me.")
 
 col3, empty_column, col4 = st.columns([1.5, 0.5, 1.5])
 
