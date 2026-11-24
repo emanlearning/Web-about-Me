@@ -1,3 +1,3 @@
-# what is this Project?
+# What is this Project?
 this is about learning
 ### what will i learn?
